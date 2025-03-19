@@ -80,6 +80,3 @@ GET, PUT, POST, DELETE using the annotations
 1.	Write the test cases for the GET, POST, PUT and DELETE operations 
 2.	Include edge cases and null conditions 
 3.	Run the test cases 
-
-
-![image](https://github.com/user-attachments/assets/81b38ee8-78ef-4139-8217-fbf052a34f20)
